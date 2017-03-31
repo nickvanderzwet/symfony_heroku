@@ -1,0 +1,4 @@
+services:
+#    webhook.example:
+#        class: WebhookBundle\Example
+#        arguments: ["@service_id", "plain_value", "%parameter%"]

@@ -1,3 +1,7 @@
+webhook:
+    resource: "@WebhookBundle/Resources/config/routing.yml"
+    prefix:   /webhook
+
 app:
     resource: '@AppBundle/Controller/'
     type: annotation

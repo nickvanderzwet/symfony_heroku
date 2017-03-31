@@ -1,0 +1,3 @@
+webhook_homepage:
+    path:     /
+    defaults: { _controller: WebhookBundle:Default:index }
